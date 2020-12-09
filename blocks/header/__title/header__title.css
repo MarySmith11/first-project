@@ -1,0 +1,8 @@
+.header__title {
+    max-width: 730px;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 102px;
+    line-height: 96px;
+    padding-left: 64px;
+    z-index: 2;
+}

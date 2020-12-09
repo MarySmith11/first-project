@@ -1,0 +1,7 @@
+.footer__social-icon_type_instagram::before {
+    content: '';
+    margin-right: 5px;
+    height: 16px;
+    width: 16px;
+    background: url(../../../../images/instagram_color_white.svg);
+}
